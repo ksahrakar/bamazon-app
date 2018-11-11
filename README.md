@@ -26,7 +26,7 @@
 * dynamic stock management
 
 ## Video walk-through
-
+https://drive.google.com/file/d/1EC90rmP8noxl1075Osezfp45RYzfDq7l/view
 
 
 
